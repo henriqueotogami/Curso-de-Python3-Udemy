@@ -6,17 +6,18 @@
 
 #### Iris Dataset
 - Regressão Linear:
- - Least Squares Method;
- - MAE - Mean Absolute Error;
- - MSE - Mean Squared Error;
- - RMSE - Root Mean Square Error;
- - Pandas;
- - Seaborn;
- - Sklearn;
- - Numpy.
+	- Least Squares Method;
+	- MAE - Mean Absolute Error;
+	- MSE - Mean Squared Error;
+	- RMSE - Root Mean Square Error;
+	- Pandas;
+	- Seaborn;
+	- Sklearn;
+	- Numpy.
+ 
  
 - Reconhecimento de images:
- - SVM - Support Vector Machine;
- - Numpy;
- - Matplotlib;
- - Sklearn.
+	- SVM - Support Vector Machine;
+	- Numpy;
+	- Matplotlib;
+	- Sklearn.
